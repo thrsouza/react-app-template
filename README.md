@@ -1,6 +1,6 @@
 # ReactJS - App Template
 
-This template was created to easier the development of new ReactJS projects.
+This template was created to ease the development of new ReactJS projects.
 
 ```javascript
 // package.json
@@ -49,5 +49,5 @@ $ yarn start || npm start
 Best regards,
 
 **Thiago Rodrigues de Souza** \
-**e-mail:** email@thiagodesouza.com.br \
+**email:** email@thiagodesouza.com.br \
 **site:** [https://www.thiagodesouza.com.br](https://www.thiagodesouza.com.br)
